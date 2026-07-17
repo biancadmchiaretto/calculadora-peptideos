@@ -3,7 +3,7 @@
 Ferramenta de laboratório para cálculos de bancada envolvendo peptídeos: reconstituição, diluição, massa molecular por sequência, conversão de concentração e determinação por absorbância (A280) — tudo reunido em um único lugar.
 
 **Autora:** Bianca D. M. Chiaretto
-**Contato:** biancachiaretto@gmail.com
+**Contato:** [biancachiaretto@gmail.com](mailto:biancachiaretto@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bianca-durao-martins-chiaretto/) · [GitHub](https://github.com/biancadmchiaretto)
 
 > ⚠️ Ferramenta apenas para fins de cálculo educacional/laboratorial. Não constitui orientação médica nem substitui protocolos institucionais, bulas ou certificado de análise (COA) do fabricante.
 

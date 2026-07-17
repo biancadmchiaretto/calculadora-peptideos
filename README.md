@@ -35,27 +35,27 @@ Não precisa de conexão com a internet depois de baixado — todos os cálculos
 ### 1. Reconstituição
 Calcula a concentração final e o volume por dose a partir da quantidade de peptídeo liofilizado no frasco e do diluente adicionado.
 
-![Reconstituição](./screenshots/01-reconstituicao.png)
+![Reconstituição](./01-reconstituicao.png)
 
 ### 2. Diluição (C₁V₁ = C₂V₂)
 Aplica a lei da diluição: preencha 3 dos 4 valores (concentração/volume inicial e final) para calcular o quarto, ou preencha os 4 para conferir se os valores batem entre si.
 
-![Diluição](./screenshots/02-diluicao.png)
+![Diluição](./02-diluicao.png)
 
 ### 3. Massa molecular
 Estima a massa molecular de um peptídeo a partir da sequência de aminoácidos (código de 1 letra).
 
-![Massa molecular](./screenshots/03-massa-molecular.png)
+![Massa molecular](./03-massa-molecular.png)
 
 ### 4. mg/mL ↔ mM
 Converte concentração entre mg/mL e mM (mmol/L), a partir da massa molecular do peptídeo.
 
-![Conversão mg/mL ↔ mM](./screenshots/04-conversao-mg-mm.png)
+![Conversão mg/mL ↔ mM](./04-conversao-mg-mm.png)
 
 ### 5. Concentração por A280
 Calcula a concentração de um peptídeo/proteína a partir da absorbância medida a 280 nm, pelo método de Pace/Edelhoch — válido para sequências contendo triptofano (Trp) e/ou tirosina (Tyr).
 
-![Concentração por A280](./screenshots/05-concentracao-a280.png)
+![Concentração por A280](./05-concentracao-a280.png)
 
 ---
 
